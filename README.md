@@ -43,7 +43,7 @@ disable it, please do the following:
 
 For plain Typescript projects, where you actually want to write Typescript code,
 please consider using
-[`ts-package-template`](https://github.com/abdulramonjemil/ts-package-template)
+[`ts-package-template`](https://github.com/abdulramon-jemil/ts-package-template)
 instead. It includes additional configuration for plain Typescript files.
 
 ## Environment settings
@@ -135,7 +135,7 @@ To use this template, do the following:
   with your projct name or `./` if you're in your project folder.
 
   ```bash
-  git clone https://github.com/abdulramonjemil/js-package-template.git <YOUR_PROJECT_NAME>
+  git clone https://github.com/abdulramon-jemil/js-package-template.git <YOUR_PROJECT_NAME>
   ```
 
 - Remove the `LICENSE` file if needed (or modify it as needed):
@@ -198,6 +198,6 @@ it first, and let's talk about it. Thanks in advance.
 
 ## Other templates
 
-- [TS Package Template](https://github.com/abdulramonjemil/ts-package-template)
+- [TS Package Template](https://github.com/abdulramon-jemil/ts-package-template)
 - [Next Chakra
-  Template](https://github.com/abdulramonjemil/next-chakra-template)
+  Template](https://github.com/abdulramon-jemil/next-chakra-template)
